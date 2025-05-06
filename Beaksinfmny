@@ -1,5 +1,5 @@
 local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
-local Window = Library:NewWindow("Script")
+local Window = Library:NewWindow("Script || PREMIUM")
  
 local Tab = Window:NewSection("Credits: LanX,Mawll1")
  
